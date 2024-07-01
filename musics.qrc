@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>music/beatballmusic.wav</file>
+        <file>music/gamemusic.wav</file>
+    </qresource>
+</RCC>
