@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>images/background.jpg</file>
+        <file>images/ball.png</file>
+        <file>images/black.png</file>
+        <file>images/continue.png</file>
+        <file>images/DSDIGIT.ttf</file>
+        <file>images/endscene.png</file>
+        <file>images/exit.png</file>
+        <file>images/help.png</file>
+        <file>images/lose.png</file>
+        <file>images/net.png</file>
+        <file>images/number1.png</file>
+        <file>images/number2.png</file>
+        <file>images/pause.jpg</file>
+        <file>images/playbutton.png</file>
+        <file>images/player1.png</file>
+        <file>images/player2.png</file>
+        <file>images/scoreblackground.png</file>
+        <file>images/standleft.png</file>
+        <file>images/standright.png</file>
+        <file>images/Stick.jpg</file>
+        <file>images/win1.png</file>
+        <file>images/win2.png</file>
+        <file>images/Play_Item.png</file>
+        <file>images/StartScene.png</file>
+        <file>images/FirstScene.png</file>
+        <file>images/Blue_backround.jpg</file>
+        <file>images/ball_right.png</file>
+    </qresource>
+</RCC>
