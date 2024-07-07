@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/images2/background.png</file>
+        <file>images/images2/ball1.png</file>
+        <file>images/images2/firstPage.jpg</file>
+        <file>images/images2/Husky.jpg</file>
+        <file>images/images2/instructor.png</file>
+        <file>images/images2/player1.jpg</file>
+        <file>images/images2/player1_head.jpg</file>
+        <file>images/images2/player1_left.jpg</file>
+        <file>images/images2/player1_right.jpg</file>
+        <file>images/images2/player2.jpg</file>
+        <file>images/images2/player2_head.jpg</file>
+        <file>images/images2/player2_left.jpg</file>
+        <file>images/images2/player2_right.jpg</file>
+        <file>images/images2/VolleyBall_Start_Scene.png</file>
+        <file>images/images2/player1_left.png</file>
+        <file>images/images2/player2_right.png</file>
+        <file>images/images2/net1.png</file>
+    </qresource>
+</RCC>
