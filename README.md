@@ -12,7 +12,7 @@ This is my C++ course project for Object‑Oriented Programming: a full Qt‑bas
 ![image](https://github.com/user-attachments/assets/fbb0988f-5e84-4a36-9958-ca6426a71a6a)![image](https://github.com/user-attachments/assets/7d9cc205-4a9f-46fb-9929-c1d1c70cac83)
 
 #### Game Modes
-- **Single Practice**: Face off against an AI opponent to hone your skills.
+- **Two‑Player Match**: Local split‑screen battle against a friend in real time.
 
 ![image](https://github.com/user-attachments/assets/f78b001e-6478-4ce9-af77-2ce313c1c6df)
 
